@@ -1,5 +1,5 @@
-setwd("/Users/hamed/Desktop/R ML projects/")
-
+setwd("/Users/****/Desktop****/")
+# Link to kaggle dataset https://www.kaggle.com/datasets/bannourchaker/frauddetection
 library(data.table)
 library(dplyr)
 library(psych)
